@@ -6,7 +6,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20+-brightgreen)](https://nodejs.org/) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.0-success)](https://www.mongodb.com/)  
 
-A digital bridge between villagers and local governance, enabling transparent communication, efficient complaint resolution, and streamlined information dissemination.
+A digital bridge between villagers and local governance,Peoples, enabling transparent communication, efficient complaint resolution, and streamlined information dissemination.
 
 ---
 
