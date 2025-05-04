@@ -30,8 +30,8 @@ A digital bridge between villagers and local governance, enabling transparent co
 
 | Role | Screenshot |  
 |------|-----------|  
-| **Sarpanch Dashboard** | ![Sarpanch View](Gramseva_Portal\screenshots\Sarapanch dashboard.png) |  
-| **Villager Portal** | ![Villager View](Gramseva_Portal\screenshots\People dashboard.png |  
+| **Sarpanch Dashboard** | ![Sarpanch View](Gramseva_Portal/screenshots/Sarapanch dashboard.png) |  
+| **Villager Portal** | ![Villager View](Gramseva_Portal/screenshots/People dashboard.png |  
 
 
 ---
