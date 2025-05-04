@@ -10,6 +10,7 @@ A digital bridge between villagers and local governance, enabling transparent co
 
 ---
 
+
 ## ✨ Key Features  
 
 ### **For Villagers**  
@@ -30,8 +31,8 @@ A digital bridge between villagers and local governance, enabling transparent co
 
 | Role | Screenshot |  
 |------|-----------|  
-| **Sarpanch Dashboard** | ![Sarpanch View](screenshots/Sarapanch.png) |  
-| **Villager Portal** | ![Villager View](screenshots/People.png) |  
+| **Sarpanch Dashboard** | ![image](https://github.com/user-attachments/assets/d78efab1-7cb9-482f-8cb1-56135d26c4fe)|  
+| **Villager Portal** | ![image](https://github.com/user-attachments/assets/6fb5b87f-b8cc-41d9-8eeb-d0a9fa926d72)|  
 
 
 ---
