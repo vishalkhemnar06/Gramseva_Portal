@@ -1,13 +1,74 @@
 <!doctype html>
+<!-- Specify language for accessibility and search engines -->
 <html lang="en">
   <head>
+    <!-- Character Set -->
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+
+    <!-- Core Meta Tags -->
+    <!-- Title Tag: Crucial for SEO and browser tabs -->
+    <title>GramSeva Portal - Connecting Villages & Gram Panchayats</title>
+
+    <!-- Meta Description: Important snippet shown in search results -->
+    <meta name="description" content="Your one-stop portal connecting villagers with their Gram Panchayat (Sarpanch/Gramsevak). Access notices, schemes, jobs, submit complaints, and view work done." />
+
+    <!-- Viewport for Responsive Design -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
+
+    <!-- Favicon Links (Generate these and place in /public) -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> <!-- Example SVG favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest"> <!-- For PWAs -->
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#22c55e"> <!-- For Safari pinned tab -->
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff"> <!-- Theme color for browser UI -->
+
+
+    <!-- Optional: Open Graph / Social Media Tags (for sharing) -->
+    <meta property="og:title" content="GramSeva Portal - Village Connect Platform" />
+    <meta property="og:description" content="Connecting villagers and Gram Panchayats for better communication and services." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://your-live-domain.com/" /> <!-- Replace with your actual deployed URL -->
+    <meta property="og:image" content="https://your-live-domain.com/og-image.png" /> <!-- Create and upload a preview image (e.g., 1200x630px) -->
+    <meta property="og:image:alt" content="GramSeva Portal Logo and Village Graphic" />
+    <meta property="og:site_name" content="GramSeva Portal" />
+
+    <!-- Optional: Twitter Card Tags (for sharing on Twitter) -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="GramSeva Portal - Connecting Villages" />
+    <meta name="twitter:description" content="Access notices, schemes, jobs, submit complaints, and interact with your Gram Panchayat." />
+    <meta name="twitter:image" content="https://your-live-domain.com/twitter-image.png" /> <!-- Create/upload a Twitter-specific image -->
+    <!-- <meta name="twitter:site" content="@YourTwitterHandle"> -->
+
+
+    <!-- Optional: Keywords (Less important nowadays, but doesn't hurt) -->
+    <meta name="keywords" content="gram panchayat, sarpanch, gramsevak, village portal, india, government schemes, village notice, complaints, rural development" />
+
+    <!-- Optional: Canonical URL (Important if you have duplicate content possibilities) -->
+    <!-- <link rel="canonical" href="https://your-live-domain.com/" /> -->
+
+    <!-- Optional: Robots Meta Tag (Control indexing) -->
+    <!-- Default is index, follow - usually no need to change unless blocking specific pages -->
+    <!-- <meta name="robots" content="index, follow"> -->
+
+
   </head>
   <body>
-    <div id="root"></div>
+    <!-- Root element for React App -->
+    <div id="root">
+        <!-- Optional: Add simple static fallback content for users with JavaScript disabled or slow initial loads -->
+        <noscript>
+            <div style="padding: 20px; text-align: center; font-family: sans-serif;">
+                <h1>Welcome to GramSeva Portal</h1>
+                <p>This application requires JavaScript to run. Please enable JavaScript in your browser settings.</p>
+                <p>Connecting villages and Gram Panchayats.</p>
+            </div>
+        </noscript>
+    </div>
+
+ 
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
