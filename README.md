@@ -30,11 +30,9 @@ A digital bridge between villagers and local governance, enabling transparent co
 
 | Role | Screenshot |  
 |------|-----------|  
-| **Sarpanch Dashboard** | ![Sarpanch View](https://placehold.co/600x400?text=Sarpanch+Dashboard) |  
-| **Villager Portal** | ![Villager View](https://placehold.co/600x400?text=Villager+Dashboard) |  
-| **Complaint Management** | ![Complaint System](https://placehold.co/600x400?text=Complaint+Flow) |  
+| **Sarpanch Dashboard** | ![Sarpanch View](Gramseva_Portal\screenshots\Sarapanch dashboard.png) |  
+| **Villager Portal** | ![Villager View](Gramseva_Portal\screenshots\People dashboard.png |  
 
-*[View full screenshot gallery](#)*  
 
 ---
 
