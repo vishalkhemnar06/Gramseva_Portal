@@ -1,0 +1,48 @@
+# Project Root .gitignore
+
+# Node dependencies
+**/node_modules/
+*/npm-debug.log
+*/yarn-error.log
+*/pnpm-debug.log
+
+# Build outputs
+**/dist/
+**/build/
+**/.next/
+**/.output/
+
+# Environment variables (VERY IMPORTANT!)
+.env
+.env.*
+!.env.example
+
+# IDE and OS specific files
+.idea/
+.vscode/
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.sw?
+*.[Dd]esktop.ini
+.DS_Store
+Thumbs.db
+
+# Log files
+**/logs/
+*.log
+log.*.log
+
+# Local Uploads (if storing locally - adjust path if needed)
+# If you used server/uploads/ for local storage:
+server/uploads/
+
+# Optional: Test reports, coverage, etc.
+coverage/
+.nyc_output/
+
+# Optional: Specific tooling cache
+.eslintcache
+.stylelintcache
+.prettiercache
